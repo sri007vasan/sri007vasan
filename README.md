@@ -9,8 +9,8 @@
 </p>
 
 ### 📫 Connect with Me:
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](<https://www.linkedin.com/in/sri-hari-vasan-5bb058285/>) 
-[<img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](<https://www.instagram.com/sri._.vasan/>)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sri-hari-vasan-5bb058285/) 
+[<img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/sri._.vasan/)
 
 ---
 ### 🛠️ Tech Stack
@@ -42,11 +42,11 @@
 </p>
 
 ### 🚀 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=<sri007vasan>&theme=radical&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sri007vasan&theme=radical&show_icons=true)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/<sriharivasanop>?ext=contest&theme=dark)](https://leetcode.com/<sriharivasanop>)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/sriharivasanop?ext=contest&theme=dark)](https://leetcode.com/sriharivasanop)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=<sri007vasan>&bg_color=0d1117&color=58a6ff&line=58a6ff&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sri007vasan&bg_color=0d1117&color=58a6ff&line=58a6ff&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 ### 🌟 Fun Fact:
