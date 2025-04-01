@@ -1,6 +1,6 @@
-## Hey Everyone! 👋 I'm <YOUR NAME>
+## Hey Everyone! 👋 I'm SRI HARI VASAN A shortly SHV 
 
-- 🎓 **B.Tech Student** at <YOUR COLLEGE>
+- 🎓 **B.Tech Student** at Amrita Vishwa Vidyapeedam CHENNAI CAMPUS 
 - 📚 **B.Sc in Data Science** at IIT Madras
 - 🚀 Passionate about **DSA, AI/ML, and Full-Stack Development**
 
