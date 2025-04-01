@@ -2,7 +2,7 @@
 
 - 🎓 **B.Tech Student** at Amrita Vishwa Vidyapeedam CHENNAI CAMPUS 
 - 📚 **B.Sc in Data Science** at IIT Madras
-- 🚀 Passionate about **DSA, AI/ML, and Full-Stack Development**
+- 🚀 Passionate about **DSA, AI/ML,Deep Learning
 
 <p align="right">
   <center>
