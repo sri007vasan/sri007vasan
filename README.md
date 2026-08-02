@@ -1,48 +1,48 @@
-<h1 align="center">Hi 👋, I'm SRI HARI VASAN A (SHV)</h1>
+<h1 align="center">Hi 👋, I'm <b>SRI HARI VASAN A</b></h1>
 
 <h3 align="center">
-AI Engineer | ML Enthusiast | DSA Learner | Full Stack Developer
+AI Engineer • ML Enthusiast • Full Stack Developer • DSA Learner
 </h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sri007vasan&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=sri007vasan&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="380"/>
+<img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="420"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 🎓 **B.Tech Computer Science Engineering (AI)**  
-Amrita Vishwa Vidyapeetham, Chennai
+📍 Amrita Vishwa Vidyapeetham, Chennai
 
-🎓 **B.Sc. in Data Science**  
-Indian Institute of Technology Madras
+🎓 **B.Sc Data Science**  
+📍 IIT Madras
 
 🚀 Passionate about
 
 - Artificial Intelligence
 - Machine Learning
 - Deep Learning
-- Agentic AI
-- Retrieval Augmented Generation (RAG)
 - Computer Vision
 - Natural Language Processing
-- Data Structures & Algorithms
+- Agentic AI
+- Retrieval Augmented Generation (RAG)
+- Large Language Models (LLMs)
 
-🌱 Currently learning
+🌱 Currently Learning
 
 - Advanced SQL
-- System Design
 - Backend Development
-- Large Language Models (LLMs)
+- System Design
+- Scalable AI Systems
 
 ---
 
-# 🌐 Connect with Me
+# 🌐 Connect With Me
 
 <p align="left">
 
@@ -58,23 +58,11 @@ Indian Institute of Technology Madras
 
 ---
 
-# 💻 Programming Languages
+# ⚡ Tech Stack
 
-<p>
+<p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,nodejs,tensorflow,pytorch,mysql,mongodb,firebase,git,github,docker,vscode,pycharm,linux&perline=10"/>
 
 </p>
 
@@ -82,39 +70,25 @@ Indian Institute of Technology Madras
 
 # 🤖 AI / Machine Learning
 
-<p>
+<p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+<img src="https://img.shields.io/badge/NLP-FFD21E?style=for-the-badge"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+<img src="https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
+<img src="https://img.shields.io/badge/Agentic_AI-8E24AA?style=for-the-badge"/>
 
-<img src="https://matplotlib.org/_static/images/logo2.svg" width="45"/>
+<img src="https://img.shields.io/badge/LLMs-43A047?style=for-the-badge"/>
 
-<img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="45"/>
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
 
-</p>
-
----
-
-# 🌐 Web Development
-
-<p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
+<img src="https://img.shields.io/badge/LlamaIndex-1976D2?style=for-the-badge"/>
 
 </p>
 
@@ -122,98 +96,132 @@ Indian Institute of Technology Madras
 
 # 🗄 Databases
 
-<p>
+<p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
-
-<img src="https://supabase.com/images/favicon/favicon-32x32.png" width="45"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
 </p>
 
 ---
 
-# ⚙️ Tools & Platforms
+# 🌐 Web Development
 
-<p>
+<p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+<img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 📚 Technologies I Work With
+# 🛠 Tools
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Agentic AI
-- Retrieval Augmented Generation (RAG)
-- LlamaIndex
-- Pathway Vector Store
-- REST APIs
-- Google Sheets API
-- Docker
-- Git
-- GitHub
-- DSA
-- DBMS
-- Operating Systems
-- Computer Networks
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</p>
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Technologies I Work With
 
-![](https://github-readme-stats.vercel.app/api?username=sri007vasan&theme=tokyonight&show_icons=true&hide_border=true)
+<p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sri007vasan&theme=tokyonight&hide_border=true)
+<img src="https://img.shields.io/badge/Artificial_Intelligence-6A1B9A?style=for-the-badge"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sri007vasan&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer_Vision-3949AB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NLP-00ACC1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative_AI-8E24AA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Agentic_AI-7B1FA2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-512DA8?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Large_Language_Models-2E7D32?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System_Design-1976D2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DSA-E65100?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DBMS-3949AB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Operating_System-455A64?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer_Networks-0277BD?style=for-the-badge"/>
+
+</p>
 
 ---
 
-# 🏆 GitHub Trophy
+# 📊 GitHub Statistics
 
-![](https://github-profile-trophy.vercel.app/?username=sri007vasan&theme=tokyonight&no-frame=true&row=1)
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sri007vasan&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sri007vasan&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sri007vasan&theme=tokyonight"/>
+
+</p>
 
 ---
 
 # 💻 LeetCode
 
+<p align="center">
+
 [![Leetcode Stats](https://leetcard.jacoblin.cool/sriharivasanop?theme=dark&ext=contest)](https://leetcode.com/sriharivasanop)
 
----
-
-# 📈 Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sri007vasan&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</p>
 
 ---
 
-# 🐍 Contribution Snake
+# 📈 GitHub Contribution Graph
 
-![Snake animation](https://github.com/sri007vasan/sri007vasan/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sri007vasan&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</p>
 
 ---
 
-## 💡 Quote
+# 💡 Quote
 
-> *"The best way to predict the future is to create it."* 🚀
+<p align="center">
+
+<i>"The best way to predict the future is to create it."</i> 🚀
+
+</p>
