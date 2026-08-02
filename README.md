@@ -19,7 +19,7 @@
 #### Programming Languages:
 <p>
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
-  <img src="https://icons8.com/icon/jH4BpkMnRrU5/pytorch.png"/>
+  <img src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
