@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <b>SRI HARI VASAN A</b></h1>
 
 <h3 align="center">
-AI Engineer • ML Enthusiast • Full Stack Developer • DSA Learner
+AI intern • ML Enthusiast • AI Hackathon champion • DSA Learner
 </h3>
 
 <p align="center">
