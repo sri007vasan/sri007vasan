@@ -218,10 +218,4 @@ AI Engineer • ML Enthusiast • Full Stack Developer • DSA Learner
 
 ---
 
-# 💡 Quote
 
-<p align="center">
-
-<i>"The best way to predict the future is to create it."</i> 🚀
-
-</p>
