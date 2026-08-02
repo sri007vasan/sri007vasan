@@ -20,7 +20,7 @@ AI intern • ML Enthusiast • AI Hackathon champion • DSA Learner
 📍 Amrita Vishwa Vidyapeetham, Chennai
 
 🎓 **B.Sc Data Science**  
-📍 IIT Madras
+📍 IIT Madras - completed diploma
 
 🚀 Passionate about
 
@@ -32,14 +32,6 @@ AI intern • ML Enthusiast • AI Hackathon champion • DSA Learner
 - Agentic AI
 - Retrieval Augmented Generation (RAG)
 - Large Language Models (LLMs)
-
-🌱 Currently Learning
-
-- Advanced SQL
-- Backend Development
-- System Design
-- Scalable AI Systems
-
 ---
 
 # 🌐 Connect With Me
@@ -62,7 +54,7 @@ AI intern • ML Enthusiast • AI Hackathon champion • DSA Learner
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,nodejs,tensorflow,pytorch,mysql,mongodb,firebase,git,github,docker,vscode,pycharm,linux&perline=10"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,nodejs,tensorflow,pytorch,mysql,firebase,git,github,docker,vscode,pycharm&perline=10"/>
 
 </p>
 
@@ -99,24 +91,7 @@ AI intern • ML Enthusiast • AI Hackathon champion • DSA Learner
 <p align="center">
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
-</p>
-
----
-
-# 🌐 Web Development
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
 
 </p>
 
@@ -135,8 +110,6 @@ AI intern • ML Enthusiast • AI Hackathon champion • DSA Learner
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 </p>
 
@@ -172,10 +145,6 @@ AI intern • ML Enthusiast • AI Hackathon champion • DSA Learner
 
 <img src="https://img.shields.io/badge/DBMS-3949AB?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Operating_System-455A64?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Computer_Networks-0277BD?style=for-the-badge"/>
-
 </p>
 
 ---
@@ -207,6 +176,12 @@ AI intern • ML Enthusiast • AI Hackathon champion • DSA Learner
 </p>
 
 ---
+
+<a href="https://www.kaggle.com/sriharivasan" target="_blank">
+<img src="https://img.shields.io/badge/Kaggle-Data%20Science-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+</p>
 
 # 📈 GitHub Contribution Graph
 
